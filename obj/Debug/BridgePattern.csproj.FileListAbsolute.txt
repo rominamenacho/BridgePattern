@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+C:\Users\54926\source\repos\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\54926\source\repos\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\54926\source\repos\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+C:\Users\54926\source\repos\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb
